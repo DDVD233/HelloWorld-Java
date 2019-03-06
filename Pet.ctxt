@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Pet
+comment0.text=\n\ Write\ a\ description\ of\ class\ IntroClass\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=int\ getNumLegs()
+comment10.params=
+comment10.target=java.lang.String\ getMaterial()
+comment2.params=numLegs
+comment2.target=void\ setNumLegs(int)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=name
+comment4.target=void\ setName(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getColor()
+comment6.params=color
+comment6.target=void\ setColor(java.lang.String)
+comment7.params=tail
+comment7.target=void\ setTail(boolean)
+comment8.params=
+comment8.target=boolean\ getTail()
+comment9.params=material
+comment9.target=void\ setMaterial(java.lang.String)
+numComments=11

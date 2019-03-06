@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Luncheonette
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ welcome()
+comment3.params=
+comment3.target=double\ orderDrink()
+comment4.params=
+comment4.target=double\ orderPizza()
+comment5.params=
+comment5.target=double\ orderSandwich()
+comment6.params=
+comment6.target=boolean\ answerIsPositive()
+comment7.params=quantity\ price
+comment7.target=double\ calcPrice(int,\ double)
+comment8.params=quantity
+comment8.target=double\ calcPrice(int)
+comment9.params=quantity\ type
+comment9.target=double\ calcPrice(int,\ java.lang.String)
+numComments=10

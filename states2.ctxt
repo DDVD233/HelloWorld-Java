@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=states2
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ displayMenu()
+comment3.params=
+comment3.target=void\ listAll()
+comment4.params=stateChosen
+comment4.target=java.lang.String\ stateToCapital(java.lang.String)
+comment5.params=capitalChosen
+comment5.target=java.lang.String\ capitalToHints(java.lang.String)
+comment6.params=array\ object
+comment6.target=int\ indexOf(java.lang.String[],\ java.lang.String)
+comment7.params=capitalChosen
+comment7.target=java.lang.String\ capitalToState(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ randomState()
+numComments=9

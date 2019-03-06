@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=States
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ Menu()
+comment3.params=
+comment3.target=void\ ListofAll()
+comment4.params=state
+comment4.target=java.lang.String\ StoC(java.lang.String)
+comment5.params=capital
+comment5.target=java.lang.String\ CtoS(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ random()
+comment7.params=randomstate
+comment7.target=java.lang.String\ STC(java.lang.String)
+numComments=8

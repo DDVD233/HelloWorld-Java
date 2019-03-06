@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=LunchMenu
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=
+comment10.target=boolean\ deathCheck()
+comment2.params=
+comment2.target=void\ startBuying()
+comment3.params=
+comment3.target=void\ randomChanging()
+comment4.params=
+comment4.target=void\ displayMenu()
+comment5.params=
+comment5.target=void\ saveName()
+comment6.params=
+comment6.target=int\ buySandwich()
+comment7.params=
+comment7.target=int\ buyDrinks()
+comment8.params=
+comment8.target=int\ buyDessert()
+comment9.params=n
+comment9.target=double\ roundToTenth(double)
+numComments=11
